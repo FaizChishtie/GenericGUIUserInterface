@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Created by Masteq on 2017-07-08.
+${licensePrefix} Copyright © 2017 Faizaan Chishtie. All rights reserved.
+<#if licenseLast??>
+${licenseLast}
+</#if>
